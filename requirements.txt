@@ -2,3 +2,4 @@ dateparser==1.1.1
 pandas==1.4.3
 selenium==4.4.3
 session_info==1.0.0
+installing Chrome Driver via https://chromedriver.chromium.org/downloads (only if using Google Chrome as the web browser) For firefox and others follow similar other webpages to install the respective drivers
